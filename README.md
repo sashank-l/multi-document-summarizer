@@ -5,7 +5,13 @@ An end-to-end **AI-powered multi-document summarization framework** that cluster
 This system is designed to handle **heterogeneous document formats**, **long-form text**, and **unstructured data**, making it suitable for real-world knowledge analysis, research summarization, and internal knowledge assistants.
 
 ---
-[![Watch the demo](https://img.youtube.com/vi/HpJiodVeqg0/0.jpg)](https://youtu.be/HpJiodVeqg0)
+<p align="center">
+  <a href="https://youtu.be/HpJiodVeqg0">
+    <img src="https://img.youtube.com/vi/HpJiodVeqg0/maxresdefault.jpg" />
+  </a>
+  <br/>
+  ▶️ <b>Click to watch project walkthrough</b>
+</p>
 
 ## 🚀 Key Features
 
